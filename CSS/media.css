@@ -1,0 +1,18 @@
+@media (min-width: 1400px) {
+    .container {
+        width: 1170px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .home h1 {
+        font-size: 44px;
+        font-weight: 300;
+    }
+}
+
+@media (min-width: 1200px) {
+    .home h1 {
+        font-size: 60px;
+    }
+}
